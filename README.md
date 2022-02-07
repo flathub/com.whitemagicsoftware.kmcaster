@@ -23,5 +23,5 @@ flatpak-builder build-dir com.whitemagicsoftware.kmcaster.yaml --force-clean --i
 # Build and install
 flatpak-builder build-dir com.whitemagicsoftware.kmcaster.yaml --install --user --force-clean
 # Run it
-flatpak run com.whitemagicsoftware.kmcaster
+flatpak run --user com.whitemagicsoftware.kmcaster
 ```
