@@ -19,11 +19,21 @@
     <screenshots>
         <screenshot type="default">
             <!-- prettier-ignore-start -->
-            <image>https://github.com/DaveJarvis/kmcaster/raw/1.0.3/images/kmcaster-01.gif</image>
+            <image>https://github.com/DaveJarvis/kmcaster/raw/1.1.0/images/kmcaster-01.gif</image>
             <!-- prettier-ignore-end -->
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.1.0" date="2021-10-10">
+            <description>
+                <p>Changes:</p>
+                <ul>
+                    <li>Update picocli command-line parsing library to 4.6.1</li>
+                    <li>Update svgSalamander SVG rendering library to latest on its main branch</li>
+                    <li>Move source code directories to conform to typical Java application hierarchy (src/main/java)</li>
+                </ul>
+            </description>
+        </release>
         <release version="1.0.3" date="2020-08-04">
             <description>
                 <p>Changes:</p>

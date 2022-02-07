@@ -1,6 +1,6 @@
 id: com.whitemagicsoftware.kmcaster
 runtime: org.freedesktop.Platform
-runtime-version: "20.08"
+runtime-version: "21.08"
 sdk: org.freedesktop.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.openjdk
@@ -28,8 +28,8 @@ modules:
         com.whitemagicsoftware.kmcaster.metainfo.xml
     sources:
       - type: file
-        url: https://github.com/DaveJarvis/kmcaster/releases/download/1.0.3/kmcaster.jar
-        sha256: 457858a8ebdbc93050034237c6b8d7c34a04825b869e96d65c33284ff1ce51f6
+        url: https://github.com/DaveJarvis/kmcaster/releases/download/1.1.0/kmcaster.jar
+        sha256: 369355c3bc92ddfecf287931f50e9f3bb9d473c578ffb3ed252abb1084f01a31
         dest-filename: kmcaster.jar
       - type: file
         path: com.whitemagicsoftware.kmcaster.desktop
