@@ -4,7 +4,7 @@ runtime-version: "21.08"
 sdk: org.freedesktop.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.openjdk
-command: /app/bin/run.sh
+command: kmcaster
 finish-args:
   - --env=PATH=/app/jre/bin:/usr/bin
   - --share=ipc
