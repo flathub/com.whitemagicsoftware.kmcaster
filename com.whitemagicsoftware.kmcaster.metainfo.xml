@@ -5,6 +5,7 @@
     <summary>Display mouse and keyboard events on screen</summary>
     <metadata_license>MIT</metadata_license>
     <project_license>MIT</project_license>
+    <developer_name>DaveJarvis</developer_name>
     <content_rating type="oars-1.1" />
     <url type="homepage">https://github.com/DaveJarvis/kmcaster</url>
     <url type="bugtracker">https://github.com/DaveJarvis/kmcaster/issues</url>
@@ -18,9 +19,7 @@
     <launchable type="desktop-id">com.whitemagicsoftware.kmcaster.desktop</launchable>
     <screenshots>
         <screenshot type="default">
-            <!-- prettier-ignore-start -->
-            <image>https://github.com/DaveJarvis/kmcaster/raw/1.1.0/images/kmcaster-01.gif</image>
-            <!-- prettier-ignore-end -->
+            <image>https://raw.githubusercontent.com/flathub/com.whitemagicsoftware.kmcaster/master/screenshot.png</image>
         </screenshot>
     </screenshots>
     <releases>
